@@ -1,0 +1,16 @@
+1)local:
+customer
+customer_travel_linking
+driver_customer_linking
+
+2)rental:
+customer
+customer_package_linking
+driver_package_linking
+for extra charges: extra_charges table
+
+
+
+3)outstation: 
+table:outstation
+model:rental
